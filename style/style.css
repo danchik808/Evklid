@@ -15,7 +15,12 @@
   src: url(../font/Montserrat-Bold.ttf);
   font-weight: 700;
 }
-
+.logo-top{
+  height: 72px;
+  width: 225px;
+  background-image: url(../img/Logo.png);
+  background-repeat: no-repeat;
+}
 html {
   box-sizing: border-box;
 }
